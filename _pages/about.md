@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at MIT LIDS/CEE.
+subtitle: <b>PhD Student</b> at MIT LIDS/CEE.
 
 profile:
   align: right
